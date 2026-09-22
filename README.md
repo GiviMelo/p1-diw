@@ -1,1 +1,3 @@
-add readme
+## RESPOSTA QUESTOES FECHADAS:
+
+### 1 - 
