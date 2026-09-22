@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d6d6d6;
+}
+
+table {
+    width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.cabecalho {
+    background-color: #1f263dfe;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.rodape {
+    background-color: #e2e2e2c3;
+    color: rgb(102, 102, 102);
+    text-align: center;
+}
+
+.conteudo {
+    background-color: #ffffff;
+}
+
+
+.nome {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #1f263dfe;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.link {
+    color: #f76645fe;
+    :hover { /*nao funciona nao sei pq*/
+        color: #1f263dfe;
+        font-style: italic; 
+    }
+}
+
+.img img{
+    border-radius: 50%;
+    border: 2px solid #1f263dfe;
+}
